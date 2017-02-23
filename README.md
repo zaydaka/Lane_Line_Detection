@@ -9,7 +9,7 @@ Included are three files:
 
 * README.md (this file)
 * writeup_zaydak.md (project writeup)
-* P1.ippynb (Ipython notebook)
+* P1.ipynb (Ipython notebook)
 
 Included is one folder:
 * report_images (images used in writeup_zaydak.md)
