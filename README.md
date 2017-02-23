@@ -13,9 +13,9 @@ Included are three files:
 
 Included is one folder:
 * report_images (images used in writeup_zaydak.md)
+* test_images (images used for testing input and output)
 
 Additional files NOT included but excluded for project submission:
-* test_images/ (test images used to test the pipeline)
 * solidWhiteRight.mp4 (video file to test the pipeline)
 * solidYellowLeft.mp4 (video file to test the pipeline)
 
